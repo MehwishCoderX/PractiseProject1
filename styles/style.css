@@ -1,0 +1,45 @@
+h2,p{
+    margin-left: 600px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+p{
+    margin-left: 460px; 
+}
+h3{
+    
+    margin-left: 630px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+h3:hover
+{
+    color: black;
+}
+img
+{
+    width: 150px;
+    margin-left: 600px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+       
+}
+.first
+{
+    background-color: rgb(159, 143, 175);
+    /* border: 5px solid; */
+  margin: auto;
+ 
+  padding: 10px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
